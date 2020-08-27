@@ -7,6 +7,4 @@ def my_collect(name)
 end
 end
 
-my_collect(name) do |name|
-  name.split(" ").first 
-end
+
